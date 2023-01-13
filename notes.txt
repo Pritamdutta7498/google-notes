@@ -1,0 +1,44 @@
+=>background-size: contain;(For full of the background images use)
+=>background-blend-mode: multiply;(For mix a background color with background images)
+=>text-decoration: overline wavy rgb(255, 24, 8);
+=>inline display - we can't use margin top/bottom( because inline display can't take a height in a new line )- if we have to then we must be use display: block;
+=>inline display uses for make a line of some rows data
+=>* is a universal selector
+=>css attribute selector( <input type="text";>)
+=>[
+{margin:20px(all)}
+{margin:10px(top,bottom) 20px(right,left)}
+{margin:10px(top)20px(right,left)30px(bottom)}
+{margin:all in single select}
+ margin padding is same ]
+=>
+=>for multiple items add a space between them use: transform: scale() rotate() translate();
+=>transition property and value...
+=>!important is the most most and last priority above all the color property in css example: h2{
+    color: teal !important; this can eat all the color set in h2 tag, before and after using this...
+}
+=>flex use korle justify content uses kora jai.
+=>justify-content use kora hoy horizontal e newar jonno and aling-item use kora hoy vertical er jonno.
+=>flex-direction use kore row/column je kono dike set kora jai 
+=>justify-content: space-evenly; use korle equal gap diye kora jai..
+=>responsivea: @media screen and (min-width:577px) and (max-width: 993px){...}
+=>font responsive:vh,vw ;
+    image responsive:10%,100%;
+   body te max-width use korle margin:0 auto; dithe sob tik thake eidik oidik jai na.
+=>@media screen/ responsive korar jonno oi screen e flex-direction:column/row; kore 1 side e up-down kora jai.
+=>split screen using flex,grid responsive
+=>grid is a multi dimensional/two dimensional layout and flex is a one dimensional layout(column/row)
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
